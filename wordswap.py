@@ -1,0 +1,1 @@
+print(' '.join((input("Enter words here: ").split(' '))[::-1]))
